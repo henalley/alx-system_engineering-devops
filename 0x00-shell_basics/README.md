@@ -1,3 +1,1 @@
-Scripts for: 
-0.Where am I
-1.What's in there?
+Scripts for 0x00. Shell, basics
